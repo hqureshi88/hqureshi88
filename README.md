@@ -1,10 +1,9 @@
 Hi, my name is Hamid and fairly new to coding 😀 -  I’ve been doing this in my free time including a self-taught course using Codecademy with a couple of practical full-stack industry projects at the end. 
 
-*Updating profile*
-A self-taught software developer who recently had a career change from being an electrical engineer to a full stack deveoper. 
-This profile is all my personal contributions including voluntary work as well as online tutorials/course. Feel free to have a look at my github, any contributions will be very much appreciated!
+A self-taught software developer who recently had a career change from being an electrical engineer to a full stack developer. 
+This profile is all my personal contributions including voluntary work as well as personal projects. Feel free to have a look at my github, any contributions will be very much appreciated!
 
-My main stacks are React, Javascript, .NET/C# and little bit of PHP which is all from my current commercial experience.
+My main stacks are React, Javascript, .NET/C# and little bit of PHP.
 
 If you want to chat and have a coffee, feel free to drop me a line 😬.
 
